@@ -1,6 +1,3 @@
-Here's a structured and engaging README introduction for your GitHub project:
-
----
 
 # English to Punjabi Translation Tool 🌐✨  
 
@@ -34,7 +31,7 @@ Learning Punjabi as a native English speaker can be challenging, especially when
 ## Get Started 🔧  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/english-to-punjabi-tool.git
+   git clone https://github.com/SehejGit/Punjabi-Translation.git
    ```  
 2. Install the required dependencies:  
    ```bash
@@ -42,7 +39,7 @@ Learning Punjabi as a native English speaker can be challenging, especially when
    ```  
 3. Run the Streamlit app:  
    ```bash
-   streamlit run app.py
+   streamlit run project.py
    ```  
 
 ---
