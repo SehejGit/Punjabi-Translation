@@ -39,7 +39,7 @@ Learning Punjabi as a native English speaker can be challenging, especially when
    ```  
 3. Run the Streamlit app:  
    ```bash
-   streamlit run project.py
+   streamlit run translator.py
    ```  
 
 ---
